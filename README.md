@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Soy aprendiz en desarrollo Back-end java con mucha interes ganas de aprender nuevas tecnologías. Soy autodidacta, disciplinado y con capacidad para trabajar en equipo y establecer excelentes relaciones interpersonales.
+Soy aprendiz en desarrollo Back-end java con mucha interes en aprender nuevas tecnologías. Soy autodidacta, disciplinado y con capacidad para trabajar en equipo y establecer excelentes relaciones interpersonales.
 
