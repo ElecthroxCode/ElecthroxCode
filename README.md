@@ -20,7 +20,7 @@ Soy aprendiz en desarrollo Back-end java con mucho interes en aprender nuevas te
 public class Tecnologias {
 
     public static void main(String[] args) {
-        System.out.printf("Con conocimiento  e interes en profundizar aun mas en:");
+        System.out.printf("Con conocimiento e interes en profundizar aun mas en:");
 		    System.out.printf("JAVA, HTML, CSS, JAVASCRIPT, MySQL & PYTHON");
     }
 }
