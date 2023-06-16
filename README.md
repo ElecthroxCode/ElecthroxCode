@@ -16,8 +16,3 @@ Here are some ideas to get you started:
 -->
 Soy aprendiz en desarrollo Back-end java con mucha mucha ganas de aprender nuevas tecnologías. Soy autodidacta, disciplinado y con capacidad para trabajar en equipo y establecer excelentes relaciones interpersonales.
 
-Algunas tecnologias que conozco y que estoy en proceso de profundizar:
-<div>
-[![JAVA](JAVA "JAVA")](https://github.com/vorillaz/devicons/blob/master/!SVG/java.svg "JAVA")
-[![JAVASCRIPT](JavaScript "JAVASCRIPT")](https://github.com/vorillaz/devicons/blob/master/!SVG/javascript.svg "JAVASCRIPT")
-</div>
