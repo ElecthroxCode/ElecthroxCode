@@ -1,4 +1,4 @@
-### Hola👋, mi nombre es Emmanuel Silano
+### Hola👋, soy Emmanuel Silano
 
 <!--
 **ElecthroxCode/ElecthroxCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
